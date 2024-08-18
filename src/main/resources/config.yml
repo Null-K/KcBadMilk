@@ -1,0 +1,10 @@
+# 插件模式
+# true：设置为true则牛奶只能移除下面列出的药水效果
+# false：设置为false则牛奶只会保留下面列出的药水效果
+blacklist: false
+
+# 药水效果列表
+# 名称可以在 https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/potion/PotionEffectType.html 查看
+effect:
+  - "NIGHT_VISION"
+  - "GLOWING"
